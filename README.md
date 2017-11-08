@@ -1,3 +1,4 @@
+# UNMAINTAINED: This isn't a good way to do things, but its left here for prosperity.
 Elements.js
 ===========
 
